@@ -15,6 +15,7 @@
 # limitations under the License.
 
 $(call inherit-product, device/motorola/addison/full_addison.mk)
+$(call inherit-product, vendor/validus/config/caf_fw.mk)
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
