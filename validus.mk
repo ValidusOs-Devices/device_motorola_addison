@@ -30,6 +30,7 @@ PRODUCT_MANUFACTURER := motorola
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST := ro.product.model
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRODUCT_NAME="Moto Z Play" \
+    DEVICE_MAINTAINERS="Alex Couderc(Alx31)" \
     BUILD_FINGERPRINT=motorola/addison/addison:7.0/NPN25.137-24-1/1:user/release-keys \
-    PRIVATE_BUILD_DESC="addison-user 7.0 NPN25.137-24-1 1 release-keys" \
-    PRODUCT_NAME="Moto Z Play"
+    PRIVATE_BUILD_DESC="addison-user 7.0 NPN25.137-24-1 1 release-keys"
