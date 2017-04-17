@@ -105,10 +105,6 @@ PRODUCT_PACKAGES += \
     libshim_camera \
     Snap
 
-# GzR ka
-PRODUCT_PACKAGES += \
-    KernelAdiutor
-
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/camera/msm8953_mot_camera.xml:system/etc/camera/msm8953_mot_camera.xml \
     $(LOCAL_PATH)/configs/camera/ov5693_chromatix.xml:system/etc/camera/ov5693_chromatix.xml \
@@ -279,4 +275,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
-$(call inherit-product, vendor/tipsy/config/common_full_phone.mk)
+$(call inherit-product, vendor/validus/config/common_full_phone.mk)
