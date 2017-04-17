@@ -17,8 +17,5 @@ Battery | Li-Ion 3510mAh battery
 Display | 1080 x 1920 pixels, 5.5 inches (~403 ppi pixel density)
 Camera  | 16 MP, 4608 x 3456 pixels, laser focus, dual flash LED
 
-Copyright 2016 - The CyanogenMod Project.
-
-Copyright 2017 - The LineageOS Project.
-
-![Moto Z Play](https://wiki.cyanogenmod.org/images/thumb/8/81/Osprey.png/314px-Osprey.png "Moto Z Play")
+![Moto Z Play](https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-specsexpanded-row.jpg?itok=X8_1sBW-&timestamp=1491839767)
+source: motorola.com
