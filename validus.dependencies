@@ -1,7 +1,7 @@
 [
   {
   "remote"     : "github",
-  "repository" : "Alberto97/android_kernel_motorola_msm8953",
+  "repository" : "GZR-Kernels/Addison_Drunk_Kernel",
   "target_path": "kernel/motorola/msm8953",
   "branch"     : "n7.1"
   },
