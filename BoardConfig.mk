@@ -60,9 +60,6 @@ TARGET_KERNEL_SOURCE := kernel/motorola/msm8953
 KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/$(HOST_OS)-x86/arm/arm-eabi-5.x/bin
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-eabi-
 
-# Root Method
-DEFAULT_ROOT_METHOD := rootless
-
 # Audio
 AUDIO_FEATURE_ENABLED_COMPRESS_VOIP := true
 AUDIO_FEATURE_ENABLED_EXTN_FORMATS := true
