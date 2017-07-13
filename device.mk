@@ -96,6 +96,7 @@ PRODUCT_PACKAGES += \
     camera.msm8953 \
     libbson \
     libshim_camera \
+    MotCamera \
     Snap
 
 PRODUCT_COPY_FILES += \
