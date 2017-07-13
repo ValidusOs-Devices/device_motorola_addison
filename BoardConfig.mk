@@ -84,9 +84,6 @@ BLUETOOTH_HCI_USE_MCT := true
 TARGET_CAMERASERVICE_CLOSES_NATIVE_HANDLES := true
 USE_DEVICE_SPECIFIC_CAMERA := true
 
-#Camera: allow to use motorola camera app
-MOTOCAMERA  := true
-
 # Charger
 BACKLIGHT_PATH := /sys/class/leds/lcd-backlight/brightness
 BOARD_CHARGER_ENABLE_SUSPEND := true
