@@ -1,7 +1,7 @@
 [
   {
   "remote"     : "github",
-  "repository" : "GZR-Kernels/Addison_Drunk_Kernel",
+  "repository" : "GZR-Kernels/Addison_Optimus_Drunk",
   "target_path": "kernel/motorola/msm8953",
   "branch"     : "n7.1"
   },
